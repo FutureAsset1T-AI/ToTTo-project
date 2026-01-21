@@ -1,0 +1,21 @@
+# Core Machine Learning & NLP
+torch
+transformers
+datasets
+sentencepiece
+accelerate
+
+# Metrics & Evaluation
+evaluate
+sacrebleu
+rouge_score
+nltk
+
+# Data Processing & Utilities
+pandas
+numpy
+tqdm
+ipywidgets
+
+# Experiment Tracking
+wandb

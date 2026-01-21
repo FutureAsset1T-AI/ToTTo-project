@@ -1,0 +1,11 @@
+torch>=2.2.0
+transformers>=4.48.0
+datasets>=2.16.0
+accelerate>=0.26.0
+pandas>=2.0.0
+scikit-learn
+protobuf
+sentencepiece
+wandb
+sacrebleu
+tqdm
